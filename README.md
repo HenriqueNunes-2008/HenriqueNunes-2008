@@ -172,7 +172,7 @@ Sistema voltado para **gerenciamento e acompanhamento de avaliações NPS**, des
 <tr>
 <td width="50%" valign="top">
 
-### `03 // QR-CÓPIA`
+### `03 // QR`
 
 Projeto web relacionado a **QR Codes**, explorando interação, praticidade e soluções rápidas através da web.
 
@@ -182,7 +182,7 @@ Projeto web relacionado a **QR Codes**, explorando interação, praticidade e so
 
 <br>
 
-<a href="https://github.com/HenriqueNunes-2008/qr">
+<a href="https://github.com/HenriqueNunes-2008/qr---Copia">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View project">
 </a>
 
@@ -219,13 +219,13 @@ Além dos projetos destacados, continuo desenvolvendo e experimentando novas ide
 │              CURRENT_MISSION.EXE                 │
 ├──────────────────────────────────────────────────┤
 │                                                  │
-│  [✓] Desenvolvimento Web                        │
-│  [✓] Projetos com aplicações reais              │
+│  [✓] Desenvolvimento Web                         │
+│  [✓] Projetos com aplicações reais               │
 │  [→] JavaScript                                  │
 │  [→] Python                                      │
 │  [→] Back-end                                    │
 │  [→] Bancos de Dados                             │
-│  [→] Arquitetura de Sistemas                    │
+│  [→] Arquitetura de Sistemas                     │
 │  [→] Git & GitHub                                │
 │  [→] Novas tecnologias                           │
 │                                                  │
@@ -243,42 +243,33 @@ Além dos projetos destacados, continuo desenvolvendo e experimentando novas ide
 <div align="center">
 
 <a href="https://github.com/HenriqueNunes-2008">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=HenriqueNunes-2008&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6&rank_icon=github"
-alt="GitHub Stats"
-/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=HenriqueNunes-2008&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6"
+    alt="Henrique Nunes GitHub Stats"
+  />
 </a>
 
 <a href="https://github.com/HenriqueNunes-2008">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNunes-2008&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6"
-alt="Top Languages"
-/>
-
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNunes-2008&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6"
+    alt="Henrique Nunes Top Languages"
+  />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/HenriqueNunes-2008">
-
-<img
-width="70%"
-src="https://streak-stats.demolab.com?user=HenriqueNunes-2008&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub Streak"
-/>
-
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=HenriqueNunes-2008&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="Henrique Nunes GitHub Streak"
+  />
 </a>
 
 </div>
+```
 
 ---
 
@@ -304,13 +295,18 @@ alt="GitHub Activity Graph"
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=HenriqueNunes-2008&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
-width="100%"
-alt="GitHub Trophies"
-/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=HenriqueNunes-2008&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
+    width="100%"
+    alt="Henrique Nunes GitHub Trophies"
+  />
+
+</a>
 
 </div>
+```
 
 ---
 
