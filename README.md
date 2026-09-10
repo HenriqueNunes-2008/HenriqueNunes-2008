@@ -1,13 +1,4 @@
-````markdown
 <div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+BOOT+%5D+INITIALIZING...;%3E+ACCESS+GRANTED+%7C+HENRIQUE+NUNES;%3E+WEB+DEVELOPER+%7C+ADS+STUDENT;%3E+WELCOME+TO+MY+DIGITAL+CORE"
-  alt="System Boot"
-  width="800"
-/>
-
-<br>
 
 # `HENRIQUE NUNES`
 
@@ -50,7 +41,7 @@
 > CORE                : HTML • CSS • JS • PYTHON
 > ENVIRONMENT         : WEB • SOFTWARE
 > CURRENT MODE        : LEARNING & BUILDING
-````
+```
 
 </td>
 </tr>
@@ -112,7 +103,7 @@ Meu foco atualmente é evoluir como desenvolvedor, fortalecer minha base em dese
 <br>
 
 | Area                | Technologies                            |
-| :------------------ | :-------------------------------------- |
+| :------------------ | :--------------------------------------- |
 | **Development**     | VS Code • Git • GitHub • GitHub Desktop |
 | **Frontend**        | HTML5 • CSS3 • JavaScript               |
 | **Programming**     | Python                                  |
@@ -218,19 +209,19 @@ Além dos projetos destacados, continuo desenvolvendo e experimentando novas ide
 ┌──────────────────────────────────────────────────┐
 │              CURRENT_MISSION.EXE                 │
 ├──────────────────────────────────────────────────┤
-│                                                  │
-│  [✓] Desenvolvimento Web                         │
-│  [✓] Projetos com aplicações reais               │
-│  [→] JavaScript                                  │
-│  [→] Python                                      │
-│  [→] Back-end                                    │
-│  [→] Bancos de Dados                             │
-│  [→] Arquitetura de Sistemas                     │
-│  [→] Git & GitHub                                │
-│  [→] Novas tecnologias                           │
-│                                                  │
-│  STATUS :: LEARNING_MODE_ACTIVE                  │
-│                                                  │
+│                                                    │
+│  [✓] Desenvolvimento Web                          │
+│  [✓] Projetos com aplicações reais                │
+│  [→] JavaScript                                   │
+│  [→] Python                                       │
+│  [→] Back-end                                     │
+│  [→] Bancos de Dados                              │
+│  [→] Arquitetura de Sistemas                      │
+│  [→] Git & GitHub                                 │
+│  [→] Novas tecnologias                            │
+│                                                    │
+│  STATUS :: LEARNING_MODE_ACTIVE                   │
+│                                                    │
 └──────────────────────────────────────────────────┘
 ```
 
@@ -258,18 +249,7 @@ Além dos projetos destacados, continuo desenvolvendo e experimentando novas ide
   />
 </a>
 
-<br><br>
-
-<a href="https://github.com/HenriqueNunes-2008">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com/?user=HenriqueNunes-2008&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E"
-    alt="Henrique Nunes GitHub Streak"
-  />
-</a>
-
 </div>
-```
 
 ---
 
@@ -278,13 +258,11 @@ Além dos projetos destacados, continuo desenvolvendo e experimentando novas ide
 <div align="center">
 
 <a href="https://github.com/HenriqueNunes-2008">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueNunes-2008&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=8B5CF6&area=true&hide_border=true&custom_title=HENRIQUE%20NUNES%20%2F%2F%20ACTIVITY%20MONITOR"
-width="100%"
-alt="GitHub Activity Graph"
-/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueNunes-2008&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=8B5CF6&area=true&hide_border=true&custom_title=HENRIQUE%20NUNES%20%2F%2F%20ACTIVITY%20MONITOR"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </a>
 
 </div>
@@ -296,17 +274,14 @@ alt="GitHub Activity Graph"
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-
   <img
     src="https://github-profile-trophy.vercel.app/?username=HenriqueNunes-2008&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
     width="100%"
     alt="Henrique Nunes GitHub Trophies"
   />
-
 </a>
 
 </div>
-```
 
 ---
 
@@ -365,4 +340,3 @@ Designed & built by Henrique Nunes
 </sub>
 
 </div>
-```
