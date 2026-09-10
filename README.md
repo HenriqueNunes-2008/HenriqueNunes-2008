@@ -10,15 +10,6 @@
   <img src="https://img.shields.io/badge/LEARNING-ACTIVE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Learning">
 </p>
 
-<p>
-  <a href="https://github.com/HenriqueNunes-2008">
-    <img src="https://img.shields.io/badge/GitHub-HenriqueNunes--2008-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/henrique-nunes-53a4773a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Nunes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
 </div>
 
 ---
@@ -201,91 +192,7 @@ Além dos projetos destacados, continuo desenvolvendo e experimentando novas ide
 
 ---
 
-## `05 // CURRENT MISSION`
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────┐
-│              CURRENT_MISSION.EXE                 │
-├──────────────────────────────────────────────────┤
-│                                                    │
-│  [✓] Desenvolvimento Web                          │
-│  [✓] Projetos com aplicações reais                │
-│  [→] JavaScript                                   │
-│  [→] Python                                       │
-│  [→] Back-end                                     │
-│  [→] Bancos de Dados                              │
-│  [→] Arquitetura de Sistemas                      │
-│  [→] Git & GitHub                                 │
-│  [→] Novas tecnologias                            │
-│                                                    │
-│  STATUS :: LEARNING_MODE_ACTIVE                   │
-│                                                    │
-└──────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `06 // GITHUB INTELLIGENCE`
-
-<div align="center">
-
-<a href="https://github.com/HenriqueNunes-2008">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=HenriqueNunes-2008&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6"
-    alt="Henrique Nunes GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/HenriqueNunes-2008">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNunes-2008&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=8B5CF6"
-    alt="Henrique Nunes Top Languages"
-  />
-</a>
-
-</div>
-
----
-
-## `07 // ACTIVITY MONITOR`
-
-<div align="center">
-
-<a href="https://github.com/HenriqueNunes-2008">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HenriqueNunes-2008&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=8B5CF6&area=true&hide_border=true&custom_title=HENRIQUE%20NUNES%20%2F%2F%20ACTIVITY%20MONITOR"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</a>
-
-</div>
-
----
-
-## `08 // TROPHIES`
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=HenriqueNunes-2008&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"
-    width="100%"
-    alt="Henrique Nunes GitHub Trophies"
-  />
-</a>
-
-</div>
-
----
-
-## `09 // DIGITAL PRESENCE`
+## `05 // DIGITAL PRESENCE`
 
 <div align="center">
 
