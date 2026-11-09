@@ -49,18 +49,6 @@ O sistema gerencia diferentes etapas do processo, permitindo termos de aceite, r
 
 ---
 
-### ♻️ Kure Recicla
-
-Marketplace desenvolvido para conectar usuários a uma plataforma de reciclagem e reaproveitamento de materiais.
-
-Projeto web publicado em ambiente de produção, envolvendo desenvolvimento de interface e funcionalidades voltadas à experiência do usuário.
-
-**Tecnologias:** HTML • CSS • JavaScript
-
-[Ver repositório →](https://github.com/HenriqueNunes-2008/site_kure)
-
----
-
 ### ⏱️ Registro de Horas por QR Code
 
 Sistema web para registro e acompanhamento de horas trabalhadas através de QR Codes.
